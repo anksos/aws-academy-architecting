@@ -1,10 +1,10 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: Cafe application
+
 Parameters:
   LatestAmiId:
     Type: 'AWS::SSM::Parameter::Value<AWS::EC2::Image::Id>'
     Default: '/aws/service/ami-amazon-linux-latest/amzn2-ami-hvm-x86_64-gp2'
-
   CafeNetworkParameter:
     Type: String
     Default: update-cafe-network   
@@ -18,7 +18,6 @@ Parameters:
       - t3.small
     Description: Enter t2.micro, t2.small, t3.micro or t3.small. Default is t2.small.
 Mappings:
-
   RegionMap:
     us-east-1:
       "keypair": "vockey"
@@ -40,8 +39,8 @@ Resources:
           GroupSet:
             - !Ref CafeSG
       Tags:
-        - Key: "Name"
-        - Value: "Cafe Web Server"
+        - Key: Name
+          Value: "Cafe Web Server"
       UserData:
         Fn::Base64:
           !Sub |
