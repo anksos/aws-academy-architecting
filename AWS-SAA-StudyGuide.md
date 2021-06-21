@@ -16,7 +16,7 @@ Here is a quick list of study guide material that I used:
    - [Amazon Auto Scaling](https://aws.amazon.com/autoscaling/faqs/)
    - [Amazon CloudTrail](https://aws.amazon.com/cloudtrail/faqs/)
    - [Amazon Cognito](https://aws.amazon.com/cognito/faqs/)
-4. From the PartnerCast portal I user the following 'readiness' paths:
+4. From the PartnerCast portal I used the following 'readiness' paths:
    - Exam Readiness: AWS Certified Solutions Architect - Associate (Digital training) - (duration 2 hours)
 	   - Module 1 - Design Resilient Architectures
 	   - Module 2 - Design Performant Architectures
