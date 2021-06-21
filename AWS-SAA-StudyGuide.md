@@ -24,3 +24,7 @@ Here is a quick list of study guide material that I used:
 	   - Module 4 - Design Cost Optimized Architectures
    - The AWS Certification Quiz Show: Solutions Architect - Associate exam, Episode 6 (duration 30 minutes)
    - AWS PartnerCast Solutions Architect Associate Readiness - Practice Exam Questions (duration 1 hour)
+5. ['This is My Architecture'](https://aws.amazon.com/architecture/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.category=categories%23databases%7Ccategories%23compute%7Ccategories%23storage&awsf.use-case=*all&awsf.industry=*all&awsf.language=*all&awsf.show=*all&awsf.format=*all)
+6. [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
+7. [AWS Certified Solutions Architect – Associate SAA-C02 Exam Learning Path](https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c02-exam-learning-path/)
+
