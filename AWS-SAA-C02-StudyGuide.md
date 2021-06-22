@@ -28,4 +28,5 @@ Here is a quick list of study guide material that I used:
 6. ['This is My Architecture'](https://aws.amazon.com/architecture/this-is-my-architecture/?tma.sort-by=item.additionalFields.airDate&tma.sort-order=desc&awsf.category=categories%23databases%7Ccategories%23compute%7Ccategories%23storage&awsf.use-case=*all&awsf.industry=*all&awsf.language=*all&awsf.show=*all&awsf.format=*all)
 7. [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
 8. [AWS Certified Solutions Architect – Associate SAA-C02 Exam Learning Path](https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c02-exam-learning-path/)
+9. [Cloud Notebook from Gary Zeien](https://gzeien.github.io/cloud-notebook/)
 
