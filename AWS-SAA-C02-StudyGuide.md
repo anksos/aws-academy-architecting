@@ -29,4 +29,7 @@ Here is a quick list of study guide material that I used:
 7. [AWS VPC Core Concepts in an Analogy and Guide](https://start.jcolemorrison.com/aws-vpc-core-concepts-analogy-guide/)
 8. [AWS Certified Solutions Architect – Associate SAA-C02 Exam Learning Path](https://jayendrapatil.com/aws-certified-solutions-architect-associate-saa-c02-exam-learning-path/)
 9. [Cloud Notebook from Gary Zeien](https://gzeien.github.io/cloud-notebook/)
+10. [Back to Basics: Bulk Data Storage](https://www.youtube.com/watch?v=hfqS3NPIApg)
+11. [Back to Basics: Automating Virtual Machine Image Creation](https://www.youtube.com/watch?v=33di_iJ3b7w)
+12. [AWS Networking Fundamentals](https://www.youtube.com/watch?v=hiKPPy584Mg)
 
