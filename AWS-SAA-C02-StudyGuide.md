@@ -8,6 +8,7 @@ Here is a quick list of study guide material that I used:
 4. Amazon's Frequently Asked Questions page for many different services, but the ones I focused most are the following:
    - [Amazon VPC](https://aws.amazon.com/vpc/faqs/)
    - [Amazon EC2](https://aws.amazon.com/ec2/faqs/)
+   - [Amazon IAM](https://aws.amazon.com/iam/faqs/)
    - [Amazon S3](https://aws.amazon.com/s3/faqs/)
    - [Amazon S3 Glacier](https://aws.amazon.com/glacier/faqs/)
    - [Amazon EBS](https://aws.amazon.com/ebs/faqs/)
