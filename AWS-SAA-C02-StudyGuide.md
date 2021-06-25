@@ -36,3 +36,4 @@ Here is a quick list of study guide material that I used:
 13. [Back to Basics: Bulk Data Storage](https://www.youtube.com/watch?v=hfqS3NPIApg)
 14. [Back to Basics: Automating Virtual Machine Image Creation](https://www.youtube.com/watch?v=33di_iJ3b7w)
 15. [AWS Networking Fundamentals](https://www.youtube.com/watch?v=hiKPPy584Mg)
+16. [Udemy - AWS Certified Solutions Architect Associate by Stephane Maarek](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/)
